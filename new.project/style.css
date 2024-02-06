@@ -1,0 +1,12 @@
+.container{
+    width: 80%;
+    height: auto;
+    overflow: 500px;
+    background-color: black;
+    margin: auto;
+}
+.box1{
+    width: 50px;
+    height: 30px;
+    background-color: white;
+}
